@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Electronic frame</string>
+    <string name="startPhotoFrameModeButton">전자액자 실행하기</string>
+    <string name="addPhotoButton">사진 추가하기</string>
+</resources>
